@@ -33,7 +33,7 @@ Matplotlib was the first Python data visualization library and so many other lib
 It harnesses the power of matplotlib to create beautiful charts by using only a few lines of code. The key difference is Seaborn’s default styles and color palettes, which are designed to be more aesthetically pleasing and modern.  Since Seaborn is built on top of matplotlib, you will need to know matplotlib to tweak Seaborn’s defaults.
 
 # Pandas:
-*powerful Python data analysis toolkit
+*powerful Python data analysis toolkit,
 pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language. It is already well on its way toward this goal.
 
 # Plots in Python
